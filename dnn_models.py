@@ -1,3 +1,10 @@
+# based on SincNet dnn_models.py
+# performs speaker_id experiments with SincNet.
+# Mirco Ravanelli
+# Mila - University of Montreal
+# https://github.com/mravanelli/SincNet
+# July 2018
+
 import numpy as np
 import torch
 import torch.nn.functional as F
