@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    android:background="@color/black"
+    >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/linen" >
+    </androidx.appcompat.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:screenOrientation="portrait"
+        android:layout_below="@id/toolbar"
+        android:scrollbars="none">
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"/>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/bottom_buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            android:id="@+id/footer"
+            style="@style/ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/black" >
+
+            <Button
+                android:id="@+id/identify_button"
+                style="@style/ButtonBarButton"
+                android:textAllCaps="false"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="0.5"
+                android:textColor="@color/teal"
+                android:background="@color/linen"
+                android:text="@string/identify_label"/>
+
+            <Button
+                android:id="@+id/play_button"
+                style="@style/ButtonBarButton"
+                android:textAllCaps="false"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="0.5"
+                android:textColor="@color/teal"
+                android:background="@color/linen"
+                android:text="@string/play_label"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>
