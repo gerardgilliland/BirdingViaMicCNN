@@ -31,3 +31,5 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 this app BirdingViaMicCNN (Convolutional Neural Network) is currently standalone<br>
 I plan to integrate it into BirdingViaMic -- but I am not there yet.<br>
 this runs but can only handle short songs.<br>
+I failed to upload the model_raw.pkl file. It is 108 megabytes and is larger than github will accept.<br>
+You can email me if you want a copy.<br>
