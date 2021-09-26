@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birding Via Mic CNN</string>
+    <string name="sub_title">Convolutional Neural Network</string>
+    <string name="identify_label">Id</string>
+    <string name="play_label">Play</string>
+
+</resources>

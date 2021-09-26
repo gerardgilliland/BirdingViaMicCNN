@@ -12,6 +12,9 @@ package com.modelsw.birdingviamiccnn;
 // I am not decoding .m4a files. I am using .wav files directly
 // I plan to identify the songs stored by the android app BirdingViaMic
 // I hope to integrate it into BirdingViaMic -- such that you can load it as an option much like  NW, OW, OA, NAC
+// LICENSE
+// https://chaquo.com/chaquopy/license/
+// https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository#including-an-open-source-license-in-your-repository
 //
 
 import androidx.appcompat.app.AppCompatActivity;

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BirdingViaMicCNN.iml" filepath="$PROJECT_DIR$/BirdingViaMicCNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BirdingViaMicCNN.iml" filepath="$PROJECT_DIR$/.idea/modules/BirdingViaMicCNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BirdingViaMicCNN.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BirdingViaMicCNN.app.iml" />
     </modules>
   </component>
 </project>

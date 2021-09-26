@@ -1,0 +1,59 @@
+ 110784202,    app/src/main/assets/Define/model_raw.pkl
+   1500152,    app/src/main/assets/Song/Red-winged Blackbird_177303xCSTe.wav
+   1114112,    app/src/main/assets/Define/BirdSongs.db
+    944172,    app/src/main/assets/Song/American Robin_XC171727Tr.wav
+    667500,    app/src/main/assets/Song/American Crow_1pTe.wav
+    606508,    app/src/main/assets/Song/American Crow_2aCTr.wav
+    492656,    app/src/main/assets/Song/Red-winged Blackbird_1pSTr.wav
+    383184,    app/src/main/assets/Song/American Robin_2cTe.wav
+     54329,    gradle/wrapper/gradle-wrapper.jar
+     23903,    app/src/main/res/mipmap-xxxhdpi/treble_clef_cnn.png
+     19970,    app/src/main/python/dnn_models.py
+     19969,    app/src/main/assets/Define/dnn_models.py
+     17617,    app/src/main/res/mipmap-xxhdpi/treble_clef_cnn.png
+     16508,    app/src/main/assets/Define/species_id.py
+     13434,    app/src/main/java/com/modelsw/birdingviamiccnn/MainActivity.java
+     12938,    app/src/main/python/species_id_unknown.py
+     11466,    app/src/main/assets/Define/species_id_unknown.py
+     10966,    app/src/main/python/myscript.py
+      9985,    app/src/main/res/mipmap-xhdpi/treble_clef_cnn.png
+      9128,    copies/myscript.py
+      8497,    app/src/main/assets/Define/res.res
+      7030,    app/src/main/res/mipmap-hdpi/treble_clef_cnn.png
+      6501,    app/src/main/python/data_io.py
+      6348,    app/src/main/assets/Define/data_io.py
+      5305,    app/src/main/assets/Define/species_lab.npy
+      5296,    gradlew
+      3975,    app/src/main/res/mipmap-mdpi/treble_clef_cnn.png
+      3975,    app/src/main/res/drawable/treble_clef_cnn.png
+      2592,    app/src/main/res/layout/activity_main.xml
+      2176,    gradlew.bat
+      1707,    app/build.gradle
+      1461,    app/src/main/res/values/themes.xml
+      1093,    gradle.properties
+      1052,    .idea/jarRepositories.xml
+      1000,    app/src/main/AndroidManifest.xml
+       990,    app/src/main/assets/Define/species_list.txt
+       952,    app/src/main/assets/Define/list_to_dict.py
+       943,    .idea/gradle.xml
+       912,    app/src/main/python/species.cfg
+       912,    app/src/main/assets/Define/species.cfg
+       770,    app/src/androidTest/java/com/modelsw/birdingviamiccnn/ExampleInstrumentedTest.java
+       750,    app/proguard-rules.pro
+       629,    build.gradle
+       389,    app/src/test/java/com/modelsw/birdingviamiccnn/ExampleUnitTest.java
+       372,    .idea/misc.xml
+       345,    .gitignore
+       263,    app/src/main/res/values/colors.xml
+       252,    .gitignore
+       239,    app/src/main/res/values/strings.xml
+       230,    gradle/wrapper/gradle-wrapper.properties
+       225,    .gitignore
+       180,    .idea/vcs.xml
+       170,    .idea/compiler.xml
+       145,    app/src/main/res/values/styles.xml
+        52,    settings.gradle
+        47,    .idea/.gitignore
+        41,    app/src/main/assets/Define/chaquopyFreeLicenseLink.txt
+         6,    app/.gitignore
+

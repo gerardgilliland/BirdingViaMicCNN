@@ -1,10 +1,3 @@
-# based on SincNet data_io.py
-# performs speaker_id experiments with SincNet.
-# Mirco Ravanelli
-# Mila - University of Montreal
-# https://github.com/mravanelli/SincNet
-# July 2018
-
 import configparser as ConfigParser
 from optparse import OptionParser
 import numpy as np
