@@ -32,7 +32,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 This app BirdingViaMicCNN (Convolutional Neural Network) is currently standalone<br>
 I plan to integrate it into BirdingViaMic -- but I am not there yet.<br>
 I have 1133 species in the database but only 105 species trained in the model.<br>
-I have six short songs in \app\src\main\assets\Song\<br>
+I have six short songs in \app\src\main\assets\Song\. <br>
 Three are from training datbase and three are from verification/test.<br>
 You can add more unknown songs in the above Song folder.<br>
 This runs but can only handle short songs.<br>
