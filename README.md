@@ -18,7 +18,8 @@ build database in SQLite from IOC World Bird List by Frank Gill.<br>
 https://www.worldbirdnames.org/new/<br><br>
 
 using Convolutional Neural Network model built on Ubuntu 20, Python 3.6, Nvidia Quadro GV100 GPU<br>
-run using terminal$ python3 species_id_prediction.py using the GPU<br>
+build model using terminal$ python3 species_id.py using the GPU and database<br>
+run using terminal$ python3 species_id_prediction.py using the GPU and the database<br>
 For Android converted to use only CPU.<br>
 
 build in Android Studio using chaquopy interface to Android<br>
@@ -28,6 +29,10 @@ run on Android smart phone.<br><br>
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br><br>
 
-this app BirdingViaMicCNN (Convolutional Neural Network) is currently standalone<br>
+This app BirdingViaMicCNN (Convolutional Neural Network) is currently standalone<br>
 I plan to integrate it into BirdingViaMic -- but I am not there yet.<br>
-this runs but can only handle short songs.<br>
+I have 1133 species in the database but only 105 species trained in the model.<br>
+I have six short songs in \app\src\main\assets\Song\<br>
+Three are from training datbase and three are from verification/test.<br>
+You can add more unknown songs in the above Song folder.<br>
+This runs but can only handle short songs.<br>
